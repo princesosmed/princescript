@@ -1,5 +1,5 @@
 if IY_LOADED and not _G.IY_DEBUG == true then
-    -- error("PRINCE MODE ADMIN is already running!", 0)
+    -- error("Infinite Yield is already running!", 0)
     return
 end
 
@@ -548,4 +548,4 @@ table.insert(text1,StayOpen)
 
 Button.Name = "Button"
 Button.Parent = StayOpen
-Button.Backg
+Button.Backgrou
